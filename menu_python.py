@@ -100,10 +100,10 @@ import requests
 import json
 
 # LinkedIn API credentials
-client_id = "86pgxse5dfa6b6"
-client_secret = "WPL_AP1.IewNFTVNzt0Gpb2l.xcPc/w=="
-access_token= "AQUf_hak3wGU7GdrP4ei5otL5qw2mz-ldq7jZ80dsEl_jCVnTewDn0fNKibTEHkC7VcpTCs2AgD75pnQ-gsHd3vEIGmkMCOBY1ok7vYWnR-qrcahrgrMps2Go8-_uGoQtESUAiWgPSlIx99XjO2pYTRTl9xam_CHfhLTb-FOuMgr0KxgzW--uy6_ZnRWSpcclSVu7-ZtmE0nDVfKl9StloKpw3wYPumOkkckbDJNDqiDW8dtJEEXRSuCC3j9ZA2ZcUASKmD36CvNnlH4U-ILtosZaSxTsaSW7D1wulM4AtK9h7cHGpiRClyFtRRccNtrPZmUwpP5L1pUmlg8gEow4yeCk3Pxzw"
-person_id = "q7jZ80dsEl"
+client_id = ""
+client_secret = ""
+access_token= ""
+person_id = ""
 
 # Define the post data
 def create_post_data(text):
